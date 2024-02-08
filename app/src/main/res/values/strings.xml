@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">StringArray_passing_ListView</string>
+
+    <string-array name="res_str_array">
+
+          <item>rock</item>
+        <item>paper</item>
+        <item>scissor</item>
+        <item>hello</item>
+        <item>name</item>
+        <item>game</item>
+        <item>welcome</item>
+        <item>rock</item>
+        <item>paper</item>
+        <item>scissor</item>
+        <item>hello</item>
+        <item>name</item>
+        <item>game</item>
+        <item>welcome</item>
+        <item>rock</item>
+        <item>paper</item>
+        <item>scissor</item>
+        <item>hello</item>
+        <item>name</item>
+        <item>game</item>
+        <item>welcome</item>
+        <item>rock</item>
+        <item>paper</item>
+        <item>scissor</item>
+        <item>hello</item>
+        <item>name</item>
+        <item>game</item>
+        <item>welcome</item>
+
+
+    </string-array>
+</resources>
